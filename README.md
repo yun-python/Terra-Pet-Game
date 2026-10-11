@@ -1,5 +1,5 @@
 # Terra Pet Game
-[English](./README.md) | [简体中文](./README-CN.md)
+[简体中文](./README-CH.md)
 
 The game was released in X.X.0 and X.X.5
 
